@@ -24,9 +24,7 @@
 
 ## 🔗 Connect With Me
 
-- 💼 [LinkedIn](#) (Coming soon!)
-- 📫 Email: *your email here*  
-- 🌐 Portfolio: *your website if you have one*
+- 📫 Email: majedzarkash@gmail.com  
 
 ---
 
