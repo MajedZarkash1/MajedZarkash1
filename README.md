@@ -1,3 +1,7 @@
+
+
+
+<img src="https://your-banner-link.com" alt="Majid Banner" width="100%" />
 <h1 align="center">Hi there 👋, I'm Majed Zarkash</h1>
 <h3 align="center">Welcome to my GitHub profile where all my work lives 🚀</h3>
 
