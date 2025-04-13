@@ -1,15 +1,34 @@
-## Hi Welcome in my profile where all my work is 👋
+<h1 align="center">Hi there 👋, I'm Majed Zarkash</h1>
+<h3 align="center">Welcome to my GitHub profile where all my work lives 🚀</h3>
 
-## My stats
+---
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=MajedZarkash1&show_icons=true&count_private=true&hide_border=true&theme=blue-green)](#my-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MajedZarkash1&count_private=true&hide_border=true&theme=blue-green)](#my-stats)
+🌱 **Currently Studying:**  
+🎓 Cyber Security Certificate IV at Victoria University  
+💻 Passionate about tech, coding, and learning new things
 
-[![Profile Views](https://komarev.com/ghpvc/?username=MajedZarkash1)](#my-stats)
+---
 
-- Student at Victoria University
-- Currently studying Cyber Security Certificate IV
+## 📊 GitHub Stats
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MajedZarkash1&show_icons=true&count_private=true&hide_border=true&theme=blue-green" alt="Majed's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MajedZarkash1&count_private=true&hide_border=true&layout=compact&theme=blue-green" alt="Majed's Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=MajedZarkash1&style=flat-square&color=blue" alt="Profile Views" />
+</p>
+
+---
+
+## 🔗 Connect With Me
+
+- 💼 [LinkedIn](#) (Coming soon!)
+- 📫 Email: *your email here*  
+- 🌐 Portfolio: *your website if you have one*
+
+---
 
 <!---
 MajedZarkash
