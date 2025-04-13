@@ -1,5 +1,4 @@
-## Hi there 👋
-Thank you for visiting my profile
+## Hi Welcome in my profile where all my work is 👋
 
 ## My stats
 
