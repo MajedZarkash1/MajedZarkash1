@@ -32,12 +32,6 @@
 
 ---
 
-## 🔗 Connect With Me
-
-- 📫 Email: majedzarkash@gmail.com  
-
----
-
 <!---
 MajedZarkash
 --->
