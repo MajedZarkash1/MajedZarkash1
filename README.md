@@ -5,8 +5,8 @@
 ---
 
 🌱 **Currently Studying:**  
-🎓 Cyber Security Certificate IV at Victoria University  
-💻 Passionate about tech, coding, and learning new things
+🎓 Cyber Security Diploma at Victoria University  
+💻 Passionate about tech, Netwokring, coding, and learning new things
 
 ---
 
